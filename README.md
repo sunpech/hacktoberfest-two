@@ -5,3 +5,6 @@ If you would like to contribute, please add a "Pickle Rick" file in the language
 
 #### NOTE: if there is already a file with your language of choice, appead your filename with `-username` and this will prevent any merge conflicts.
 
+### List of Contributors
+
+* Steven Suwatanapongched(@sunpech)
